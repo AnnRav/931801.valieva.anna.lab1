@@ -1,0 +1,4 @@
+F:\ПАПКА\уёба\ДОЛГИ\вебэнд\Web-Frontend1\Frontend1\obj\Debug\netcoreapp2.0\Frontend1.csprojAssemblyReference.cache
+F:\ПАПКА\уёба\ДОЛГИ\вебэнд\Web-Frontend1\Frontend1\obj\Debug\netcoreapp2.0\Frontend1.csproj.CoreCompileInputs.cache
+F:\ПАПКА\уёба\ДОЛГИ\вебэнд\Web-Frontend1\Frontend1\obj\Debug\netcoreapp2.0\Frontend1.AssemblyInfoInputs.cache
+F:\ПАПКА\уёба\ДОЛГИ\вебэнд\Web-Frontend1\Frontend1\obj\Debug\netcoreapp2.0\Frontend1.AssemblyInfo.cs
